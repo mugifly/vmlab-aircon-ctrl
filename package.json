@@ -1,0 +1,16 @@
+{
+  "name": "vmlab-aircon-ctrl",
+  "version": "0.1.0",
+  "description": "A device daemon for aircon-ctrl",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": null,
+  "license": "ISC",
+  "dependencies": {
+    "bluetooth-serial-port": "^1.2.6",
+    "denhub-device": "^0.5.0"
+  }
+}

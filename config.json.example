@@ -1,0 +1,7 @@
+{
+    "deviceName": "aircon-ctl-0",
+    "deviceType": "aircon-ctrl",
+    "deviceToken": null,
+    "denhubServerHost": null,
+    "btSerialAddress": "00:00:00:00:00:00"
+}

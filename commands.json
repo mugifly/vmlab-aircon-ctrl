@@ -1,0 +1,22 @@
+{
+    "setPower": {
+        "description": "Turn on / off the aircon",
+        "args": {
+            "power": "BOOLEAN DEFAULT false"
+        }
+    },
+    "setTemp": {
+        "description": "Set the temperature",
+        "args": {
+            "temp": "INTEGER(18,28) DEFAULT 24"
+        }
+    },
+    "getPower": {
+        "description": "Get the power state of the aircon",
+        "args": {}
+    },
+    "getTemp": {
+        "description": "Get the temperature",
+        "args": {}
+    }
+}
